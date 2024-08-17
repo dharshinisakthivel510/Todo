@@ -1,3 +1,4 @@
+
 console.log("this is script file")
 let inputField = document.getElementById("userInput")
 let button = document.getElementById("addButton")
@@ -11,3 +12,4 @@ function addNotes(){
     noteslist.appendChild(list);
     console.log(inputField.value)}
 }
+=======
